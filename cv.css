@@ -10,3 +10,22 @@ body {
   border-radius: 50%;
 }
 
+.cf-section-title {
+  font-size: 1.5 rem;
+  font-weight: bold;
+  border-bottom: 2px solid #0d6efd;
+  display: inline-block;
+  margin-bottom: 20px;
+}
+
+.cf-contact-info i {
+  margin-right: 8px;
+}
+
+.cf-courses-pic {
+  width: 200x;
+  height: 120px;
+  object-fit: cover;
+  border-radius: 5%;
+}
+
